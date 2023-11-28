@@ -1,0 +1,58 @@
+body{
+	margin: 40px;
+	padding: 40px;
+	background-color: whitesmoke;
+}
+.container{
+	width: 100%;
+	height:wrap;
+	display:flex;
+/*   	justify-content: space-between;*/
+	margin: auto;
+	
+}
+.layout_kiri{
+	width: 40%;
+	height: wrap;
+	margin-top: 45px;
+}
+img{
+	width: 50%;
+	height: 150px;
+	margin: top;
+}
+.layout_kanan{
+	width: 40%;
+	height: wrap;
+	margin-top: 45px;
+	align-content: start;
+}
+.container1{
+	width: 100%;
+	height: wrap;
+	display:flex;
+/*       justify-content: space between;*/
+    margin: auto;
+}
+.layout_gambar{
+	width: 40%;
+	height: 65%;
+	margin-top: 45px;
+}
+ img{
+	width: 50%;
+	height: 150px;
+	margin: button;
+
+}
+.layout_teks{
+	width: 40%;
+	height: wrap;
+	margin-top: 45px;
+	align-content: start;
+}
+
+
+
+
+
